@@ -68,5 +68,4 @@ router.patch('/:id',
     res.json(rta);
   });
 
-
-module.exports = router;
+module.exports=router;
